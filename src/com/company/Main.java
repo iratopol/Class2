@@ -3,6 +3,9 @@ package com.company;
 import java.util.stream.IntStream;
 
 public class Main {
+    int a = 10;
+    int n = 10;
+
     public static void main(String[] args) {
         if (10 > 5) {
             System.out.println(true);
