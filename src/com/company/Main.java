@@ -24,6 +24,7 @@ public class Main {
         String[] split = strInt.split("");
         System.out.println();
         System.out.println("GIT");
+        System.out.println("GIT");
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         IntStream.range(1, 10)
                 .filter(s -> s % 2 == 0)
