@@ -6,6 +6,7 @@ public class Main {
     int a = 10;
     int n = 10;
     int g = 7;
+    String test1 = "test";
 
     public static void main(String[] args) {
         if (10 > 5) {
@@ -27,6 +28,10 @@ public class Main {
         System.out.println(number + 2);
         String[] split = strInt.split("");
         System.out.println();
+        System.out.println("GIT");
+        System.out.println("GIT");
+        System.out.println("GIT");
+        System.out.println("GIT");
 
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         IntStream.range(1, 10)
